@@ -37,7 +37,7 @@
 
 ## 📝 Coding Convention, Git flow
 
-[Convention and flow](https://www.notion.so/efe35fa22c0044b4bd4c0dd5ff014d04?pvs=4)
+[Convention and flow](https://sleet-rain-67f.notion.site/efe35fa22c0044b4bd4c0dd5ff014d04)
 
 <br>
 
